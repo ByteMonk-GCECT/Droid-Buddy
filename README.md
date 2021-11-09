@@ -1,6 +1,5 @@
-<p align="center">
- <img src="https://user-images.githubusercontent.com/76570320/140969258-098ffd37-dbd6-423a-a2d2-4aee9d3d8459.png" height= 506 width = 900 />
-</p>
+![Droid Buddy](https://user-images.githubusercontent.com/76570320/140982281-eb937fd7-5668-4cab-98e6-70ef4c851922.png)
+
 
 <hr>
 
